@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header&text=ASISH%20SARANGI&fontSize=40&fontColor=ffffff" width="100%" />
 </p>
 
-# 👋 Hi, I'm Asish Sarangi
+# 👋 Hi, I'm Asish Sarangi...
 
 I'm a passionate student at **Silicon University, Bhubaneswar, Odisha**, constantly learning and building new things in the world of technology.
 
